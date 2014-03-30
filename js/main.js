@@ -2,12 +2,13 @@
 var fs = require("fs"),
 	mersennetwister = require("mersennetwister"),
 	gui = require("nw.gui"), win,
+	Genetics = require("./js/Genetics.js"),
 	// settings
 	package_json, settings_json,
 	// GUI (Node-Webkit gui module)
 	menu, file_menu, test_menu,
 	// Pixi.js
-	stage, renderer,
+	stage, renderer, last_render_ts,
 	// Textures
 	textures,
 	// Organisms
@@ -39,29 +40,20 @@ menubar.append( new gui.MenuItem({
 	submenu: test_menu
 }));
 //----
-debug_menu = new gui.Menu();
-debug_menu.append( new gui.MenuItem({ 
-	label: "Show Developer Tools", 
-	click: function(){ win.showDevTools(); } 
-}));
-menubar.append( new gui.MenuItem({ 
-	label: "Debug", 
-	submenu: debug_menu
-}));
+// debug_menu = new gui.Menu();
+// debug_menu.append( new gui.MenuItem({ 
+// 	label: "Show Developer Tools", 
+// 	click: function(){ win.showDevTools(); } 
+// }));
+// menubar.append( new gui.MenuItem({ 
+// 	label: "Debug", 
+// 	submenu: debug_menu
+// }));
 //----
 win.menu = menubar;
 
 function random_float( low, high ) {
 	return low + mersennetwister.random()*(high - low);
-}
-
-// classes
-function Organism() {
-	// constants
-	this.size = 16;
-	// properties
-	this.sprite = null; // PIXI.Sprite
-	this.speed = 0;
 }
 
 // [Test] / [Start Test]
@@ -73,7 +65,7 @@ function start_test() {
 	stage = new PIXI.Stage( 0xffffff );
 	var organism_count = 10;
 	for( var i = 0; i < organism_count; i++ ) {
-		var organism = new Organism();
+		var organism = new Genetics.Organism();
 		var sprite = new PIXI.Sprite( textures.organism );
 		sprite.anchor.x = 0.5;
 		sprite.anchor.y = 0.5;
@@ -82,7 +74,6 @@ function start_test() {
 		sprite.rotation = random_float( 0, Math.TAU );
 		stage.addChild( sprite );
 		organism.sprite = sprite;
-		organism.speed = 1.0;
 		organisms.push( organism );
 	}
 }
@@ -95,17 +86,21 @@ document.body.appendChild( renderer.view );
 // render loop - initial state
 stage = new PIXI.Stage( 0x808080 );
 organisms = [];
+last_render_ts = Date.now() - 16; // approx. 60 FPS (simulated)
 
 // render loop
 function animate() {
-	var organism;
+	var elapsed, organism, speed, turningSpeed;
+	elapsed = Date.now() - last_render_ts;
+	last_render_ts += elapsed;
+
 	requestAnimFrame( animate );
 	
 	// update position of each organism based on its speed; facing direction is part of sprite
 	for( var i = 0; i < organisms.length; i++ ) {
 		organism = organisms[i];
-		organism.sprite.position.x += organism.speed * Math.cos( organism.sprite.rotation );
-		organism.sprite.position.y += organism.speed * Math.sin( organism.sprite.rotation );
+		organism.updateInputs( elapsed ); // "controls" - these should come from a brain
+		organism.updatePosition( elapsed );
 	}
 
 	// update position of each organism such that none are outside of the world boundaries

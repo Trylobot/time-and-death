@@ -16,7 +16,7 @@
 	"window": {
 		"title": "Time & Death",
 		"icon": "img/icon.png",
-		"toolbar": false,
+		"toolbar": true,
 		"frame": true,
 		"width": 1280,
 		"height": 720,
@@ -26,11 +26,8 @@
 		"max_height": 720,
 		"position": "mouse"
 	},
-	"webkit": {
-		"plugin": true
-	},
 	"renderer": {
-		"width": 1260,
-		"height": 680
+		"width": 1240,
+		"height": 640
 	}
 }
