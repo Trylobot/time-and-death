@@ -1,4 +1,11 @@
 {
   "name": "time-and-death",
+  "version": "0.0.1",
+  "dependencies": {
+  	"nodewebkit": ""
+  },
+  "scripts": {
+  	"start": "nodewebkit"
+  },
   "main": "index.html"
 }
