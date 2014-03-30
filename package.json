@@ -1,11 +1,36 @@
 {
-  "name": "time-and-death",
-  "version": "0.0.1",
-  "dependencies": {
-  	"nodewebkit": ""
-  },
-  "scripts": {
-  	"start": "nodewebkit"
-  },
-  "main": "index.html"
+	"name": "time-and-death",
+	"version": "0.0.1",
+	"dependencies": {
+		"nodewebkit": ">=0.8.5-2",
+		"mersennetwister": ">=0.1.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/Trylobot/time-and-death.git"
+	},
+	"scripts": {
+		"start": "nodewebkit"
+	},
+	"main": "index.html",
+	"window": {
+		"title": "Time & Death",
+		"icon": "img/icon.png",
+		"toolbar": false,
+		"frame": true,
+		"width": 1280,
+		"height": 720,
+		"min_width": 1280,
+		"min_height": 720,
+		"max_width": 1280,
+		"max_height": 720,
+		"position": "mouse"
+	},
+	"webkit": {
+		"plugin": true
+	},
+	"renderer": {
+		"width": 1260,
+		"height": 680
+	}
 }
