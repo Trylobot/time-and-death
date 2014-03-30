@@ -1,0 +1,1007 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sum",
+				"sum_finite_arithmetic_series"
+			],
+			[
+				"plan",
+				"plan_processing"
+			],
+			[
+				"global",
+				"global_sort_order"
+			],
+			[
+				"add",
+				"addRow"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"current",
+				"current_document_section"
+			],
+			[
+				"current_",
+				"current_document_section"
+			],
+			[
+				"str_replace",
+				"str_replace"
+			],
+			[
+				"sort",
+				"sort_compare"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 122.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Dev/Project Euler/1_ver2.js",
+		"/C/Dev/Project Euler/1.js",
+		"/C/Dev/Project Euler/1_ver1.1.js",
+		"/C/Dev/Github/time-and-death/bower.json",
+		"/C/Users/tbot/Desktop/proposed.txt",
+		"/D/Games/SteamLibrary/SteamApps/common/Luftrausers/data/res/player.json",
+		"/C/Users/tbot/Desktop/Yodle.txt",
+		"/C/Users/tbot/Desktop/BRDY Update 2014-03-17/README_CYCERIN.txt",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/weapons/br_damocles.wpn",
+		"/C/Users/tbot/AppData/Local/Temp/7zOBF98.tmp/br_fluxejector.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/burstjets.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/burstjets_drone.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/desdinovajets.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/gravityfield.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/lucifergenerator.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/rapidautoloader.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/revenantdrone.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/scalar_deracinator.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/scalar_deracinator_small.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/scalarcloak.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/shrimpsensor.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/sparkdrive.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/arcjetburner.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/weapons/br_fluxejector.wpn",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/hulls/brdy_asura.ship",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/variants/brdy_asura_assault.variant",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/brphasecloak.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/brdy_sentineldronex2.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/brdy_sentineldrone.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/brdy_bulwarkdrone.system",
+		"/C/Users/tbot/Desktop/Combat Radar .6c/Combat Radar/data/config/combat_radar.json",
+		"/C/Dev/Github/cloudnode/lunchvote/.gitignore",
+		"/C/Dev/Github/lunch_vote/package.json",
+		"/C/Dev/Github/lunch_vote/app.cfg.json",
+		"/C/Users/tbot/.ssh/cloudnode.pub",
+		"/C/Dev/Github/cloudnode/lunchvote/.cloudnode.appconfig",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/br_fluxejector.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/scripts/FluxEjector.java",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/variants/brdy_asura_strike.variant",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/hulls/ship_data.csv",
+		"/K/Games/Starsector/starsector-core/data/shipsystems/fastmissileracks.system",
+		"/K/Games/Starsector/starsector-core/data/config/settings.json",
+		"/K/Games/Starsector/starsector-core/data/hulls/hound.ship",
+		"/C/Dev/PHP/scrape_literotica/command template.txt",
+		"/K/Games/Starsector/starsector-core/data/shipsystems/flarelauncher.system",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/shipsystems/ship_systems.csv",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/ship_data.csv",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/nom_decorative_damselfly_tow_cable.wpn",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_roadrunner.ship",
+		"/K/Games/Starsector/mods/ss-nom/mod_info.json",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_gecko.ship",
+		"/K/Games/Starsector/mods/exerelin/.git/config",
+		"/K/Games/Starsector/mods/exerelin/.git/refs/remotes/origin/HEAD",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/drones/nom_gecko_drone.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_scarab.ship",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/fighters/nom_scarab_assault.variant",
+		"/K/Games/Starsector/mods/Blackrock Drive Yards/data/variants/scarab_attack.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/scripts/plugins/TheNomadsCharacterCreationPlugin.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/hegemony_vs_nomads/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_vs_hegemony/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_vs_sindrian_diktat/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_vs_tritachyon/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/sindrian_diktat_vs_nomads/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/tritachyon_vs_nomads/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_strike_mission/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_pursuit_mission/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/world/factions/nomads.faction",
+		"/K/Games/Starsector/mods/ss-nom/data/scripts/world/systems/TheNomadsNur.java",
+		"/K/Games/Starsector/mods/ss-nom/data/config/title_screen_variants.csv",
+		"/K/Games/Starsector/mods/ss-nom/data/campaign/sim_opponents.csv",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/nom_roadrunner_engine_fx.wpn",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/nom_roadrunner_pursuit.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/shipsystems/ship_systems.csv",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/nom_decorative_tow_cable_anchor.wpn",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_damselfly.ship",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/nom_maser_pulse_beam.wpn",
+		"/K/Games/Starsector/mods/ss-nom/data/shipsystems/nom_damselfly_drone.system",
+		"/K/Games/Starsector/starsector-core/data/hulls/apogee.ship",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_demo/MissionDefinition.java",
+		"/K/Games/Starsector/starsector-core/data/hulls/conquest.ship",
+		"/K/Games/Starsector/starsector-core/data/shipsystems/drone_sensor.system",
+		"/K/Games/Starsector/starsector-core/data/variants/apogee_Balanced.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/proj/nom_gamma_pulse_emp_shot.proj",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/nom_gamma_pulse_emp.wpn",
+		"/K/Games/Starsector/starsector-core/data/config/sounds.json",
+		"/K/Games/Starsector/mods/ss-nom/data/config/sounds.json",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_pursuit_mission/descriptor.json",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/mission_list.csv",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_pursuit_mission/mission_text.txt",
+		"/K/Games/Starsector/starsector-core/data/shipsystems/highenergyfocus.system",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/proj/nom_self_sustained_fusion_torpedo_projectile.proj",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/proj/nom_firecracker_shot.proj",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/proj/nom_doom_cannon_shot.proj",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/proj/nom_retribution.proj",
+		"/K/Games/Starsector/mods/ss-nom/data/config/settings.json",
+		"/K/Games/Starsector/mods/exerelin/data/world/factions/nomads.faction",
+		"/K/Games/Starsector/mods/exerelin/data/world/factions/blackrock_driveyards.faction",
+		"/K/Games/Starsector/starsector-core/data/world/generators.csv",
+		"/K/Games/Starsector/mods/ss-nom/docs/exerelin_fleets.json",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/nom_retribution_postmortem_launcher.wpn",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/fighters/nom_fang_bomber.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_fang.ship",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/nom_scorpion_assault.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/nom_rattlesnake_assault.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/nom_flycatcher_carrier.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/fighters/nom_toad_assault.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/weapons/nom_doom_cannon.wpn",
+		"/K/Games/Starsector/starsector-core/data/weapons/harpoon_single.wpn",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_oasis.ship",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_yellowjacket.ship",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_komodo.ship",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_komodo_mk2.ship",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_rattlesnake.ship",
+		"/C/Users/tbot/Desktop/ship_armor_grid.txt",
+		"/K/Games/Starsector/mods/ss-nom/data/strings/ship_names.json",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_demo_3/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/vs_nomads/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_demo_2/MissionDefinition.java",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/wing_data.csv",
+		"/K/Games/Starsector/starsector-core/data/weapons/proj/harpoon_mrm.proj",
+		"/K/Games/Starsector/starsector-core/data/weapons/proj/reaper_torp.proj",
+		"/K/Games/Starsector/starsector-core/data/weapons/reaper.wpn",
+		"/K/Games/Starsector/mods/ss-nom/data/missions/nomads_test/descriptor.json",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/nom_fang_bomber.variant",
+		"/K/Games/Starsector/mods/ss-nom/data/hulls/nom_gila_monster.ship",
+		"/K/Games/Starsector/mods/ss-nom/data/variants/nom_gila_monster_antibattleship.variant",
+		"/K/Games/Starsector/starsector-core/data/weapons/pulselaser.wpn",
+		"/K/Games/Starsector/starsector-core/data/weapons/amblaster.wpn"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.wpn",
+			"",
+			"*.proj",
+			"K:\\Games\\Starsector\\mods\\ss-nom\\data\\variants",
+			"",
+			"D:\\Github\\starsector-mods\\.git",
+			"K:\\Games\\Starsector\\starsector-core\\data",
+			"K:\\Games\\Starsector\\mods\\src\\UNVERSIONED\\starfarer.api",
+			"K:\\Games\\Starsector\\mods\\nom",
+			"K:\\Games\\Starsector\\mods\\Exerelin",
+			"K:\\Games\\Starsector",
+			"",
+			"missiondefinition.java",
+			"",
+			"*.wpn",
+			"*.proj",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"min_cursor_value",
+			"script",
+			"gravityfield",
+			"WS0007",
+			"SYSTEM",
+			"\"contrailSize\": 4,",
+			"\"textureType\"",
+			"emp",
+			"fusion",
+			"pd1",
+			"WS 004",
+			"PD2",
+			"PD1",
+			"WS_PD",
+			"_pd",
+			"0.0",
+			"3.3333335",
+			"[",
+			",",
+			"\",",
+			"PLAYER",
+			"OrdnanceExpertPerk2",
+			"optimized assembly",
+			"  SOUND: ",
+			"exi",
+			"Trylobot",
+			"true",
+			"false",
+			"WS_S3",
+			"WS_S2",
+			"WS_S4",
+			"WS_S3",
+			"WS_S2",
+			"WS_S1",
+			"WS_PD5",
+			"WS_PD4",
+			"WS_PD3",
+			"WS_PD2",
+			"WS_PD1",
+			"WS_M7",
+			"WS_M6",
+			"WS_M5",
+			"WS_M4",
+			"WS_M3",
+			"WS_M2",
+			"WS_M1",
+			"WS_L4",
+			"WS_L3",
+			"WS_L2",
+			"WS_L1",
+			"WS_L4",
+			"WS_L3",
+			"WS_L2",
+			"WS_L1",
+			"assault",
+			"nom_twin_electron_maser_turret_base",
+			"weapons",
+			"swarmer",
+			"reaper_fire",
+			"\"NONE\"",
+			"animationType",
+			"\"animationType\"",
+			"\"NONE\"",
+			"HEATSEEKER",
+			"SpriteAPI",
+			"graphics",
+			"do_not",
+			"\"Small 3\"",
+			"\"Small 2\"",
+			"\"Med 7\"",
+			"\"Med 1\"",
+			"\"Med 5\"",
+			"\"Med 4\"",
+			"\"Large 6\"",
+			"\"Med 2\"",
+			"\"WS 9\"",
+			"\"WS 8\"",
+			"\"WS 5\"",
+			"\"WS 6\"",
+			"\"WS 7\"",
+			"\"WS 3\"",
+			"\"WS 2\"",
+			"\"WS 1\"",
+			"\"WS 4\"",
+			"pilum",
+			"hull",
+			"_wing",
+			"	",
+			"512",
+			"\"heavy_electron_maser_fire\"",
+			"\"energy_pulse_lighter\"",
+			"\"energy_pulse\"",
+			"doomcannon_fire",
+			"doomcannon_fire1",
+			"WS 004",
+			"false",
+			"128",
+			"nom_death_bloom",
+			"greek",
+			"high_intensity_laser_loop",
+			"projectileSpec",
+			"nomad",
+			"nomads",
+			"\"type\": \"BUILT_IN\"",
+			",",
+			"LOW_TECH",
+			"category",
+			"nur",
+			"background_nur",
+			"nom_",
+			"nomad",
+			"Nur",
+			"<?",
+			"SMALL",
+			"WS0002",
+			"WS0001",
+			"LARGE",
+			"current_angle",
+			"facing",
+			"arc",
+			"curr",
+			"currDir",
+			"lazylib",
+			"lazywizard",
+			"exception",
+			",",
+			"WS008",
+			"\"WS008\""
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ANCIENT_NAERAN",
+			"\\1,\\2",
+			"\\1,\\1",
+			"\"type\": \"BUILT_IN\"",
+			"<fleets></fleets>",
+			"<daysAtZeroLR>0.0</daysAtZeroLR>",
+			"<daysWithoutSupplies>0.0</daysWithoutSupplies>",
+			"[td]   ",
+			"electron_maser",
+			"nom_iguana_wing",
+			" }],",
+			"[{",
+			"\\n",
+			"",
+			"\\n",
+			"",
+			"\\n",
+			"\\r\\n",
+			"",
+			"Ship",
+			"condor_FS",
+			"",
+			"lasher_CS",
+			"enforcer_CS",
+			"",
+			"(object.description_non_empty()? object.data.description():'')",
+			"toggle_showing_description",
+			"$base_url",
+			"$this->getPageData",
+			"$this->data",
+			"$base_url",
+			"target",
+			"item",
+			"$1\"$2\":"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"asura",
+				"mods/Blackrock Drive Yards/data/variants/brdy_asura_assault.variant"
+			],
+			[
+				"settings",
+				"vanilla/config/settings.json"
+			],
+			[
+				"flarelauncher",
+				"vanilla/shipsystems/flarelauncher.system"
+			],
+			[
+				"hound.ship",
+				"vanilla/hulls/hound.ship"
+			],
+			[
+				"fastmissileracks",
+				"vanilla/shipsystems/fastmissileracks.system"
+			],
+			[
+				"nomscarabvariant",
+				"mods/ss-nom/data/variants/fighters/nom_scarab_assault.variant"
+			],
+			[
+				"scarabvariant",
+				"mods/Blackrock Drive Yards/data/variants/scarab_attack.variant"
+			],
+			[
+				"nomscara",
+				"mods/ss-nom/data/hulls/nom_scarab.ship"
+			],
+			[
+				"geckovariant",
+				"mods/ss-nom/data/variants/drones/nom_gecko_drone.variant"
+			],
+			[
+				"nomshipdata",
+				"mods/ss-nom/data/hulls/ship_data.csv"
+			],
+			[
+				"geck",
+				"mods/ss-nom/data/hulls/nom_gecko.ship"
+			],
+			[
+				"damtowcable",
+				"mods/ss-nom/data/weapons/nom_decorative_damselfly_tow_cable.wpn"
+			],
+			[
+				"nomcharcrea",
+				"mods/ss-nom/data/scripts/plugins/TheNomadsCharacterCreationPlugin.java"
+			],
+			[
+				"nomroad",
+				"mods/ss-nom/data/hulls/nom_roadrunner.ship"
+			],
+			[
+				"nomfac",
+				"mods/ss-nom/data/world/factions/nomads.faction"
+			],
+			[
+				"titlescreen",
+				"mods/ss-nom/data/config/title_screen_variants.csv"
+			],
+			[
+				"simop",
+				"mods/ss-nom/data/campaign/sim_opponents.csv"
+			],
+			[
+				"nom_tow_cable",
+				"mods/ss-nom/data/weapons/nom_decorative_damselfly_tow_cable.wpn"
+			],
+			[
+				"tow_cable_anc",
+				"mods/ss-nom/data/weapons/nom_decorative_tow_cable_anchor.wpn"
+			],
+			[
+				"roadrunnership",
+				"mods/ss-nom/data/hulls/nom_roadrunner.ship"
+			],
+			[
+				"roadrunner",
+				"mods/ss-nom/data/variants/nom_roadrunner_pursuit.variant"
+			],
+			[
+				"roadrunnerpurs",
+				"mods/ss-nom/data/variants/nom_roadrunner_pursuit.variant"
+			],
+			[
+				"nom_decorat",
+				"mods/ss-nom/data/weapons/nom_decorative_damselfly_tow_cable.wpn"
+			],
+			[
+				"nomsystems",
+				"mods/ss-nom/data/shipsystems/ship_systems.csv"
+			],
+			[
+				"nomcross",
+				"mods/ss-nom/data/weapons/nom_decorative_oasis_habitat_ring_structural_support_beam.wpn"
+			],
+			[
+				"nomdamsel",
+				"mods/ss-nom/data/hulls/nom_damselfly.ship"
+			],
+			[
+				"conquest",
+				"vanilla/hulls/conquest.ship"
+			],
+			[
+				"drone_sensor",
+				"vanilla/shipsystems/drone_sensor.system"
+			],
+			[
+				"roadrunn",
+				"mods/ss-nom/data/hulls/nom_roadrunner.ship"
+			],
+			[
+				"apogee",
+				"vanilla/variants/apogee_Balanced.variant"
+			],
+			[
+				"retribution",
+				"mods/ss-nom/data/weapons/proj/nom_retribution.proj"
+			],
+			[
+				"masershot",
+				"mods/ss-nom/data/weapons/proj/nom_ultralight_electron_maser_shot.proj"
+			],
+			[
+				"vansounds",
+				"vanilla/config/sounds.json"
+			],
+			[
+				"nomsounds",
+				"mods/ss-nom/data/config/sounds.json"
+			],
+			[
+				"nomfaction",
+				"mods/ss-nom/data/world/factions/nomads.faction"
+			],
+			[
+				"nomsettings",
+				"mods/ss-nom/data/config/settings.json"
+			],
+			[
+				"vanillasounds",
+				"vanilla/config/sounds.json"
+			],
+			[
+				"nommaserpu",
+				"mods/ss-nom/data/weapons/nom_maser_pulse_beam.wpn"
+			],
+			[
+				"doomcannon",
+				"mods/ss-nom/data/weapons/nom_doom_cannon.wpn"
+			],
+			[
+				"nomretri",
+				"mods/ss-nom/data/weapons/proj/nom_retribution.proj"
+			],
+			[
+				"harpoon",
+				"vanilla/weapons/harpoon_single.wpn"
+			],
+			[
+				"nomre",
+				"mods/ss-nom/data/weapons/nom_retribution_postmortem_launcher.wpn"
+			],
+			[
+				"retribut",
+				"mods/ss-nom/data/weapons/proj/nom_retribution.proj"
+			],
+			[
+				"nomfang",
+				"mods/ss-nom/data/variants/fighters/nom_fang_bomber.variant"
+			],
+			[
+				"vansettin",
+				"vanilla/config/settings.json"
+			],
+			[
+				"nomsound",
+				"mods/ss-nom/data/config/sounds.json"
+			],
+			[
+				"nomscorp",
+				"mods/ss-nom/data/variants/nom_scorpion_assault.variant"
+			],
+			[
+				"nomfly",
+				"mods/ss-nom/data/variants/nom_flycatcher_carrier.variant"
+			],
+			[
+				"nomkomo",
+				"mods/ss-nom/data/hulls/nom_komodo.ship"
+			],
+			[
+				"komodomk",
+				"mods/ss-nom/data/hulls/nom_komodo_mk2.ship"
+			],
+			[
+				"rattle",
+				"mods/ss-nom/data/hulls/nom_rattlesnake.ship"
+			],
+			[
+				"nomyello",
+				"mods/ss-nom/data/hulls/nom_yellowjacket.ship"
+			],
+			[
+				"retribproj",
+				"mods/ss-nom/data/weapons/proj/nom_retribution.proj"
+			],
+			[
+				"oasis",
+				"mods/ss-nom/data/hulls/nom_oasis.ship"
+			],
+			[
+				"nomshipnames",
+				"mods/ss-nom/data/strings/ship_names.json"
+			],
+			[
+				"nomshipname",
+				"mods/ss-nom/data/strings/ship_names.json"
+			],
+			[
+				"nomnur",
+				"mods/ss-nom/data/scripts/world/systems/TheNomadsNur.java"
+			],
+			[
+				"nomwingdata",
+				"mods/ss-nom/data/hulls/wing_data.csv"
+			],
+			[
+				"harpoonmrm",
+				"vanilla/weapons/proj/harpoon_mrm.proj"
+			],
+			[
+				"titlesc",
+				"mods/ss-nom/data/config/title_screen_variants.csv"
+			],
+			[
+				"reaper",
+				"vanilla/weapons/reaper.wpn"
+			],
+			[
+				"missions",
+				"mods/ss-nom/data/missions/mission_list.csv"
+			],
+			[
+				"flarelau",
+				"vanilla/shipsystems/flarelauncher.system"
+			],
+			[
+				"nomeffect",
+				"mods/ss-nom/data/weapons/nom_effect_faux_plasma.wpn"
+			],
+			[
+				"fangbomb",
+				"mods/ss-nom/data/variants/nom_fang_bomber.variant"
+			],
+			[
+				"nomfangbom",
+				"mods/ss-nom/data/variants/nom_fang_bomber.variant"
+			],
+			[
+				"gilamon",
+				"mods/ss-nom/data/variants/nom_gila_monster_antibattleship.variant"
+			],
+			[
+				"gilaship",
+				"mods/ss-nom/data/hulls/nom_gila_monster.ship"
+			],
+			[
+				"pulse",
+				"vanilla/weapons/pulselaser.wpn"
+			],
+			[
+				"scarab",
+				"mods/ss-nom/data/variants/fighters/nom_scarab_assault.variant"
+			],
+			[
+				"flareseeker",
+				"vanilla/shipsystems/proj/flare_seeker.proj"
+			],
+			[
+				"flarefigh",
+				"vanilla/shipsystems/proj/flare_fighter.proj"
+			],
+			[
+				"flareaci",
+				"vanilla/shipsystems/flarelauncher_active.system"
+			],
+			[
+				"flarestand",
+				"vanilla/shipsystems/proj/flare_standard.proj"
+			],
+			[
+				"flarel",
+				"vanilla/shipsystems/wpn/flarelauncher1.wpn"
+			],
+			[
+				"configsettings",
+				"vanilla/config/settings.json"
+			],
+			[
+				"vansett",
+				"vanilla/config/settings.json"
+			],
+			[
+				"deathbloom",
+				"mods/ss-nom/data/variants/nom_death_bloom_strike.variant"
+			],
+			[
+				"nomdeath",
+				"mods/ss-nom/data/hulls/nom_death_bloom.ship"
+			],
+			[
+				"deathbloomvar",
+				"mods/ss-nom/data/variants/nom_death_bloom_strike.variant"
+			],
+			[
+				"deathbloomship",
+				"mods/ss-nom/data/hulls/nom_death_bloom.ship"
+			],
+			[
+				"title",
+				"mods/ss-nom/data/config/title_screen_variants.csv"
+			],
+			[
+				"nom_rattle",
+				"mods/ss-nom/data/hulls/nom_rattlesnake.ship"
+			],
+			[
+				"dominatorout",
+				"vanilla/variants/dominator_Outdated.variant"
+			],
+			[
+				"nomstrings",
+				"mods/ss-nom/data/strings/descriptions.csv"
+			],
+			[
+				"rattlevar",
+				"mods/ss-nom/data/variants/nom_rattlesnake_assault.variant"
+			],
+			[
+				"sandstovar",
+				"mods/ss-nom/data/variants/nom_sandstorm_assault.variant"
+			],
+			[
+				"mod",
+				"mods/ss-nom/mod_info.json"
+			],
+			[
+				"oasisvar",
+				"mods/ss-nom/data/variants/nom_oasis_standard.variant"
+			],
+			[
+				"fxjava",
+				"mods/ss-nom/data/scripts/weapons/RenderMissileAsProjectileFXBase.java"
+			],
+			[
+				"nommodinfo",
+				"mods/ss-nom/mod_info.json"
+			],
+			[
+				"doomcannonwpn",
+				"mods/ss-nom/data/weapons/nom_doom_cannon.wpn"
+			],
+			[
+				"autopulse",
+				"vanilla/weapons/autopulse.wpn"
+			],
+			[
+				"vulcan",
+				"vanilla/weapons/vulcan.wpn"
+			],
+			[
+				"sandvar",
+				"mods/ss-nom/data/variants/nom_sandstorm_assault.variant"
+			],
+			[
+				"wurmvar",
+				"mods/ss-nom/data/variants/nom_wurm_assault.variant"
+			],
+			[
+				"iguanavar",
+				"mods/ss-nom/data/variants/fighters/nom_iguana_assault.variant"
+			],
+			[
+				"flyca",
+				"mods/ss-nom/data/variants/nom_flycatcher_carrier.variant"
+			],
+			[
+				"scorpvar",
+				"mods/ss-nom/data/variants/nom_scorpion_assault.variant"
+			],
+			[
+				"scorpion",
+				"mods/ss-nom/data/hulls/nom_scorpion.ship"
+			],
+			[
+				"gilavar",
+				"mods/ss-nom/data/variants/nom_gila_monster_antibattleship.variant"
+			],
+			[
+				"sounds",
+				"mods/ss-nom/data/config/sounds.json"
+			],
+			[
+				"flak",
+				"vanilla/weapons/proj/flak_shot.proj"
+			],
+			[
+				"fusionproj",
+				"mods/ss-nom/data/weapons/proj/nom_self_sustained_fusion_torpedo_projectile.proj"
+			],
+			[
+				"torpmini",
+				"mods/ss-nom/data/weapons/proj/nom_self_sustained_fusion_torpedo_projectile_mini.proj"
+			],
+			[
+				"type1srm",
+				"vanilla/weapons/proj/type_1_srm.proj"
+			],
+			[
+				"toadvariant",
+				"mods/ss-nom/data/variants/fighters/nom_toad_assault.variant"
+			],
+			[
+				"flycatcher",
+				"mods/ss-nom/data/variants/nom_flycatcher_carrier.variant"
+			],
+			[
+				"scorpionassa",
+				"mods/ss-nom/data/variants/nom_scorpion_assault.variant"
+			],
+			[
+				"fauxplasmashot",
+				"mods/ss-nom/data/weapons/proj/nom_effect_faux_plasma_shot.proj"
+			],
+			[
+				"plasmashot",
+				"vanilla/weapons/proj/plasma_shot.proj"
+			],
+			[
+				"nom_effect_faux_plasma_shot_mini",
+				"mods/ss-nom/data/weapons/proj/nom_effect_faux_plasma_shot_mini.proj"
+			],
+			[
+				"fauxplas",
+				"mods/ss-nom/data/weapons/nom_effect_faux_plasma.wpn"
+			],
+			[
+				"engine",
+				"mods/nom/data/config/engine_styles.json"
+			],
+			[
+				"pilum",
+				"vanilla/weapons/pilum.wpn"
+			],
+			[
+				"plasma_shot",
+				"vanilla/weapons/proj/plasma_shot.proj"
+			],
+			[
+				"plasma",
+				"vanilla/weapons/plasma.wpn"
+			],
+			[
+				"heatseeker_mrm",
+				"vanilla/weapons/proj/heatseeker_mrm.proj"
+			],
+			[
+				"ioncannon_shot",
+				"vanilla/weapons/proj/ioncannon_shot.proj"
+			],
+			[
+				"scorpionvar",
+				"mods/nom/data/variants/nom_scorpion_assault.variant"
+			],
+			[
+				"heatseekr",
+				"vanilla/weapons/proj/heatseeker_mrm.proj"
+			],
+			[
+				"nomweaponcsv",
+				"mods/nom/data/weapons/weapon_data.csv"
+			],
+			[
+				"swarmer",
+				"vanilla/weapons/swarmer.wpn"
+			],
+			[
+				"nomtitle",
+				"mods/nom/data/config/title_screen_variants.csv"
+			],
+			[
+				"nomsim",
+				"mods/nom/data/campaign/sim_opponents.csv"
+			],
+			[
+				"ultralightshot",
+				"mods/nom/data/weapons/proj/nom_ultralight_electron_maser_shot.proj"
+			],
+			[
+				"heavyelec",
+				"mods/nom/data/weapons/proj/nom_heavy_electron_maser_shot.proj"
+			],
+			[
+				"lightelec",
+				"mods/nom/data/weapons/proj/nom_light_electron_maser_shot.proj"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"lunchvote",
+				"/C/Dev/Github/lunch_vote/this.sublime-project"
+			],
+			[
+				"",
+				"/C/Dev/BlitzMax/sf-ship-ed/starfarer_ship_editor.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true
+}

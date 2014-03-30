@@ -3,6 +3,7 @@
 	"version": "0.0.1",
 	"main": "css/main.css",
 	"dependencies": {
-		"pixi.js": "1.x"
+		"pixi.js": "1.x",
+		"angular": "1.2.x"
 	}
 }
